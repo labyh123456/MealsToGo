@@ -19,7 +19,9 @@ This App was developed during the Complete React Native: Zero To Mastery course.
 <p>This project was developed with the following technologies: </p>
 
 <p>*  Expo | React Native </p>
-<p>* Typescript </p>
+<p>* React Navigation </p>
+<p>* Google Maps Api </p>
+<p>* Stripe </p>
+<p>* Styled Components </p>
 <p>* Firebase </p>
-<p>* Husky </p>
 <p> For more details, see the package.json </p>
